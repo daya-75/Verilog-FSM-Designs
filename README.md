@@ -25,9 +25,8 @@ This repository contains the design and simulation of two finite state machines 
 - **Outputs**: `dispense_item`, `return_coin`, `display_status`
 
 ## 🛠️ Tools Used
-- Language: Verilog (IEEE 1364-2001)
+- Language: Verilog 
 - Simulator: Xilinx Vivado Simulator
-- Target: FPGA (optional)
 
 ## 🚀 How to Simulate
 1. Open Vivado and create a project.
