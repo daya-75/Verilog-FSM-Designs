@@ -28,12 +28,6 @@ This repository contains the design and simulation of two finite state machines 
 - Language: Verilog 
 - Simulator: Xilinx Vivado Simulator
 
-## 🚀 How to Simulate
-1. Open Vivado and create a project.
-2. Add the FSM module and its testbench.
-3. Run behavioral simulation to observe waveforms.
-4. Modify inputs in testbench for different scenarios.
-
 ---
 
 ## 📈Sample Waveforms and Schematic
