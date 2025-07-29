@@ -37,5 +37,23 @@ This repository contains the design and simulation of two finite state machines 
 
 ---
 
+## 📈Sample Waveforms and Schematic
+
+1. UP_COUNTER:
+   
+   a) Schematic: https://drive.google.com/file/d/1TltjLKl-RxdlmEEj-j4BDrA4MILSxVku/view?usp=drive_link
+
+   b) Sample Waveform:<img width="1511" height="405" alt="Screenshot 2025-07-23 091738" src="https://github.com/user-attachments/assets/49216d26-4ffc-44f3-a537-a27ad727f08c" />
+
+   
+3. INPUT_TRIGGERED_FSM:
+
+   a) Schematic: https://drive.google.com/file/d/1ixNxc8fbJB55czOIJDbfkLyJQOKS-PNH/view?usp=drive_link
+   
+   b) Sample Waveform: <img width="1514" height="340" alt="Screenshot 2025-07-29 200916" src="https://github.com/user-attachments/assets/9eb752aa-6f90-4576-a1d5-8a88379ef6bb" />
+
+   
+---
+
 ### 👨‍💻 Author
 Dayanand Bisanal
