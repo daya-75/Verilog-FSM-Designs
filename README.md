@@ -29,7 +29,7 @@ This repository contains the design and simulation of two finite state machines 
 - Simulator: Xilinx Vivado Simulator
 - Target: FPGA (optional)
 
-## 🚀 How to Run
+## 🚀 How to Simulate
 1. Open Vivado and create a project.
 2. Add the FSM module and its testbench.
 3. Run behavioral simulation to observe waveforms.
